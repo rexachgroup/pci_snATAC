@@ -170,7 +170,7 @@ Analyze ligand–receptor interactions using CellPhoneDB.
 # 9. Topic modeling of variant-linked CREs in microglia
 Topic modeling of microglial CREs containing either frVars or sn-eQTLs was performed to determine whether variant-linked regulatory elements converge into coherent and biologically meaningful regulatory programs associated with disease-related microglial states.
 
-09_topic_modeling_variant_linked_CREs_microglia/
+90_topic_modeling_variant_linked_CREs_microglia/
 
 `91.extract_PeakMat.R`
 
