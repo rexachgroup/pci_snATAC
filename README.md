@@ -112,7 +112,7 @@ Integration with functional genomic data to examine the distribution of MPRA var
 `57.QTL_cal_fishertest_eGene_match.R`
 
 
-# 6. REgulatory TFs and target genes
+# 6. Regulatory TFs and target genes
 Footprinting analysis and TF-target inference using TOBIAS.
 
 60_TFBS_TOBIAS/
@@ -166,3 +166,22 @@ Analyze ligand–receptor interactions using CellPhoneDB.
 `83.Run_deg_analysis.py`
 
 `84.sumNb_degCCI_subC.R`
+
+# 9. Topic modeling of variant-linked CREs in microglia
+Topic modeling of microglial CREs containing either frVars or sn-eQTLs was performed to determine whether variant-linked regulatory elements converge into coherent and biologically meaningful regulatory programs associated with disease-related microglial states.
+
+09_topic_modeling_variant_linked_CREs_microglia/
+
+`91.extract_PeakMat.R`
+
+`92.extract_CREset_w_SNPs.R`
+
+`93.run_cisTopic.R`
+
+`94.topics_plot_TF_enrichR.R`
+
+`95.sum_topicst_snps-ADgwas.R`
+
+`95.sum_topicst_snps-FTDgwas.R`
+
+`96.topics_refine_by_frVar.R`
