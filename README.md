@@ -1,6 +1,6 @@
 # pci_snATAC
 
-This repository contains scripts used in Han et al. (2025) for analyzing single-nucleus ATAC-seq data, identifying regulatory elements, and integrating with genetic and functional genomic datasets.
+This repository contains scripts used in Han et al. (2026) for analyzing single-nucleus ATAC-seq data, identifying regulatory elements, and integrating with genetic and functional genomic datasets.
 
 All scripts were developed and tested under the following environments: R v4.2.2 and Python v3.9.7.
 
